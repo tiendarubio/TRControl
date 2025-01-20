@@ -1,5 +1,5 @@
 // URL del Google Apps Script (reemplaza con tu URL)
-const appsScriptUrl = "https://script.google.com/macros/s/AKfycbxn9OmNXNd4bt5CZ-Hfk3f1A44vQ57nPRAzefwjL52ilHmgiS8M0RnX8L20cVC0Vw/exec";
+const appsScriptUrl = "https://script.google.com/macros/s/AKfycbyYog5aRYjK5RamVpHX_UzR3Uzmk77a37mXbAY0URF9KmOedspwUjKlcGmKMhw8YAE/exec";
 
 // Escribir datos
 document.getElementById("writeData").addEventListener("click", async () => {
